@@ -8,4 +8,4 @@ My GitHub page is http://github.com/JovaniAntonio.
 
 ### CPSC 120
 
-Lab 8 was one of my favorite labs to work on. Testing
+Lab 8 was one of my favorite labs to work on. Testing Code
